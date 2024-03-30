@@ -52,7 +52,7 @@ def clear():
 root = Tk()
 root.title("Phone Number Detail")
 root.geometry("305x430")
-root.iconbitmap("phonelogo.ico")
+root.iconbitmap("Phone-Number-Detailing-App/phonelogo.ico")
 root.resizable(width=False, height=False)
 
 # Create a main frame inside the root window
