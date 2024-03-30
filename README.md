@@ -1,3 +1,5 @@
+![logo](https://github.com/Muhammad-Maaiz/Phone-Number-Detailing-App/assets/157501398/17f483f9-f5c2-41b9-8b56-69c46845f959)
+
 <h1>Phone Number Detailing App</h1>
 <h2>Introduction</h2>
 <p>This is a simple Python application that allows users to fetch and display details of provided phone numbers. The application utilizes the phonenumbers library to extract information such as timezone, carrier, and region associated with the input phone number. It features a graphical user interface (GUI) built using the Tkinter library.</p>
